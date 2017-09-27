@@ -1,1 +1,2 @@
+Venus might be red.
 Venus is not red.
